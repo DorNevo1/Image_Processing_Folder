@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegionsOfInterest version="1.1">
+  <Region name="green_mask" color="255,0,255">
+    <PixelDef>
+      <SpatialRef>coordSys={GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]} tiePoint=0,0,-77.50555661,43.14311098 pixelSize=0.0000005,0.00000037 dims=2016,213 rotation=0</SpatialRef>
+      <Coordinates>
+1703 29 1704 29 1705 29 1706 29 1707 29 1703 30 1704 30 1705 30 1706 30 1707 30 1703 31 1704 31 1706 31 1707 31 1703 32 1704 32 1705 32 1706 32 1707 32 1703 33 1704 33 1705 33 1706 33 1707 33
+      </Coordinates>
+    </PixelDef>
+    <GeometryDef>
+      <CoordSysStr>GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]</CoordSysStr>
+      <Polygon>
+        <Exterior>
+          <LinearRing>
+            <Coordinates>
+-77.50474985 43.14308992 -77.50473984 43.14308679 -77.50473849 43.14308774 -77.50473551 43.14309377 -77.50473356 43.14309769 -77.50473427 43.14309864 -77.50474433 43.14310118 -77.50474579 43.14309959 -77.50474677 43.14309733 -77.50474763 43.14309599 -77.50474807 43.14309468 -77.50474893 43.14309325 -77.50474963 43.14309202 -77.50475007 43.1430906 -77.50474963 43.1430902 -77.50474985 43.14308992
+            </Coordinates>
+          </LinearRing>
+        </Exterior>
+      </Polygon>
+    </GeometryDef>
+  </Region>
+</RegionsOfInterest>

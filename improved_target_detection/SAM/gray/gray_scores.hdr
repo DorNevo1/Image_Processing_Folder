@@ -1,0 +1,15 @@
+ENVI
+samples = 2016
+lines   = 213
+bands   = 1
+data type = 4
+interleave = bip
+file type = ENVI Standard
+header offset = 0
+byte order = 0
+map info = {Geographic Lat/Lon, 1.0000, 1.0000, -77.50555661, 43.14311098, 5.039856e-07, 3.690519e-07, WGS-84, units=Degrees}
+coordinate system string = {GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]]}
+x start = 66
+y start = 276
+band names = {
+ Rule (gray_target)}
